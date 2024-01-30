@@ -13,7 +13,7 @@
 ![Screenshot](https://github.com/antonuccicornelia/EulenM0d/blob/main/Screenshot_2.png)
 
 
-## Last update 27.11 🚀
+## Last update 31.01 2024 🚀
 
 - Your favorite ESP just got better with enhanced health and box sizes.
 - High smooth settings on your Aim it will not slow down your aim anymore.
